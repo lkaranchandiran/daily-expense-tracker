@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Daily Expense</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_history">History</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_budget_settings">Budget &amp; Settings</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="delete_expense">Delete Expense</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="amount">Amount (₹)</string>
+    <string name="category">Category</string>
+    <string name="description">Note / Description (Optional)</string>
+    <string name="date">Date</string>
+    <string name="today_spending">Today\'s Spend</string>
+    <string name="month_spending">This Month</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="remaining">Remaining</string>
+    <string name="recent_transactions">Recent Expenses</string>
+    <string name="view_all">View All</string>
+    <string name="no_expenses_yet">No expenses recorded yet.</string>
+    <string name="quick_add_hint">Tap + to add your first expense</string>
+    <string name="export_csv">Export Data to CSV</string>
+    <string name="clear_data">Reset All Data</string>
+</resources>
